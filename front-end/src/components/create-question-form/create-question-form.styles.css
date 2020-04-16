@@ -1,0 +1,26 @@
+.create-question-form input,
+.create-question-form textarea {
+	display: block;
+	width: 70%;
+	margin-bottom: 20px;
+	padding: 10px 20px;
+	background: #f2f2fa;
+	border: none;
+	color: #000;
+	font-size: 16px;
+	letter-spacing: 1px;
+	outline: none;
+}
+
+.create-question-block .medium-size.section-title {
+	text-align: left !important;
+}
+
+.create-question-block input[type="submit"] {
+	background: #17d0cf;
+	display: inline-block;
+	width: 200px;
+	font-size: 18px;
+	color: #fff;
+	font-weight: 600;
+}

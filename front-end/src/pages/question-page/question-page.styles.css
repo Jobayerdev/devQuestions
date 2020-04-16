@@ -1,0 +1,47 @@
+.question-block-intro h1 {
+	font-size: 40px;
+	text-align: center;
+	color: black;
+	font-weight: 400;
+	width: 65%;
+	margin: 0 auto;
+	margin-bottom: 40px;
+}
+.question-block-intro button {
+	background: #17d0cf;
+	padding: 8px 20px;
+	color: #fff;
+	font-size: 18px;
+	font-weight: 600;
+	border: none;
+	border-radius: 5px;
+	outline: none;
+}
+.card-header {
+	min-height: 100px;
+	display: flex;
+	align-items: center;
+	font-size: 22px;
+	background: #17d0cf;
+	color: #fff;
+	font-weight: 600;
+	padding-left: 70px;
+}
+
+.question-number {
+	background: #fff;
+	width: 70px;
+	height: 70px;
+	border-radius: 100%;
+	position: absolute;
+	left: -10px;
+	top: -10px;
+	color: #000;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-weight: 700;
+} /* border-radius: 10px; */
+.card-header {
+	position: relative;
+}

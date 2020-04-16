@@ -1,0 +1,22 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	/* transition: 0.5s all ease-in-out !important; */
+	text-decoration: none !important;
+}
+.jump-top-top-btn {
+	position: fixed;
+	right: 30px;
+	bottom: 30px;
+	background: #3e3e3e;
+	border: none;
+	outline: none !important;
+	padding: 5px 15px;
+	color: #17d0cf;
+	font-size: 18px;
+	font-weight: 400;
+	text-transform: capitalize;
+	border-radius: 2px;
+	transition: 0.3s all ease-in-out !important;
+}
